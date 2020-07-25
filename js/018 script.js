@@ -24,7 +24,7 @@ function rememberMyFilms() {
             i--;
         } else {
             personalMovieDB.movies[mov] = movChenge;
-        };
+        }
 
 
 
@@ -62,7 +62,7 @@ function showMyDB () {
     if (personalMovieDB.privat == false) {
         console.log(personalMovieDB);
     } else{
-        console.log("good")
+        console.log("good");
     }
 }
 showMyDB();
