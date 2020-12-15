@@ -81,4 +81,6 @@ const personalMovieDB = {
 };
 
 
+alert("1" [0]);
+
 console.log(personalMovieDB);
